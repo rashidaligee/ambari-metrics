@@ -172,7 +172,7 @@
     
     <property>
       <name>hbase.zookeeper.quorum</name>
-      <value>node04.openstacklocal</value>
+      <value>f-bcpc-vm3.bcpc.example.com</value>
       <final>true</final>
     </property>
     

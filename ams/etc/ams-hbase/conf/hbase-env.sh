@@ -2,7 +2,7 @@
 # Set environment variables here.
 
 # The java implementation to use. Java 1.6+ required.
-export JAVA_HOME=/usr/jdk64/jdk1.8.0_112
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle-amd64/
 
 # HBase Configuration directory
 export HBASE_CONF_DIR=${HBASE_CONF_DIR:-/etc/ams-hbase/conf}

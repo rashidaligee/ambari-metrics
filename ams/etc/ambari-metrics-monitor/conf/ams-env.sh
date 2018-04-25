@@ -2,10 +2,10 @@
 # Set environment variables here.
 
 # AMS instance name
-export AMS_INSTANCE_NAME=node04.openstacklocal
+export AMS_INSTANCE_NAME=f-bcpc-vm3.example.com
 
 # The java implementation to use. Java 1.6 required.
-export JAVA_HOME=/usr/jdk64/jdk1.8.0_112
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle-amd64/
 
 # Collector Log directory for log4j
 export AMS_COLLECTOR_LOG_DIR=/var/log/ambari-metrics-collector

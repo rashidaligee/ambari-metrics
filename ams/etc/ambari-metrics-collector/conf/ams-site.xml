@@ -7,7 +7,7 @@
     
     <property>
       <name>cluster.zookeeper.quorum</name>
-      <value>node03.openstacklocal,node01.openstacklocal</value>
+      <value>f-bcpc-vm3.bcpc.example.com</value>
     </property>
     
     <property>
